@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HackingCPA
 - 👀 I’m interested in expanding my skills with computer programming and, broadly, computer science to experiment with what I can build
 - 🌱 I’m currently learning Python and programming best practices
-- 💞️ I’m looking to collaborate on projects surrounding the finance and education industries
+- 💞️ I’m looking to collaborate on projects within the finance, real estate, and education industries
 - 📫 How to reach me (new to github, ill figure out communication later haha)
 
 <!---
